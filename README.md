@@ -45,11 +45,10 @@ Este projeto implementa uma arquitetura baseada em microserviços utilizando Rab
 
 ## 📸 Print do Painel RabbitMQ
 
-![Print das filas do RabbitMQ](img/print_filas.png)
+![print_filas](https://github.com/user-attachments/assets/f3aa9792-0045-4a0a-8670-0938866ebf34)
 
 ---
 
 ## 👨‍💻 Integrantes
 
 - **Igor Akira Bortolini Tateishi** — RM554227
-
