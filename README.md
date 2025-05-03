@@ -45,7 +45,7 @@ Este projeto implementa uma arquitetura baseada em microserviços utilizando Rab
 
 ## 📸 Print do Painel RabbitMQ
 
-![Print das filas do RabbitMQ](https://github.com/user-attachments/assets/af0ea3fc-0989-409a-af65-6523915e841d/print_filas.png)
+![Print das filas do RabbitMQ](img/print_filas.png)
 
 ---
 
